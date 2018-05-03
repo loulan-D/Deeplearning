@@ -1,6 +1,6 @@
 ## Welcome to the Deeplearning Pages
 
-### &nbsp;This page mainly introduce some important notes on the way to ML or DL,And the page will update until the end of the game(We participate in a Tianchi Competition).
+### &nbsp;&nbsp;&nbsp;&nbsp;This page mainly introduce some important notes on the way to ML or DL,And the page will update until the end of the game(We participate in a Tianchi Competition).
 
 ### 
 --------------------------
