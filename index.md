@@ -5,6 +5,6 @@ This page mainly introduce some important notes on the way to ML or DL,And the p
 
 ### 
 --------------------------
-#### 《TensorFlow 实战谷歌深度学习框架》笔记
+#### 《TensorFlow 实战谷歌深度学习框架》(第2版)笔记
 + 12.Tensorflow计算加速
     + This is a [baidu](http://www.baidu.com/).
