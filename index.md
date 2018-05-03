@@ -3,8 +3,7 @@
 ### This page mainly introduce some important notes on the way to ML or DL,And the page will update until the end of the game(We participate in a Tianchi Competition).
 
 ### 
-
-
-
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+--------------------------
+#### 《TensorFlow 实战谷歌深度学习框架》笔记
+-
+This is a [baidu](http://www.baidu.com/).
