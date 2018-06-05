@@ -5,8 +5,6 @@ This page mainly introduce some important notes on the way to ML or DL,And the p
 
 The primary goal for this competition is to enhance knowledge and competency of ourself.Through this competition ,we learned about the  Machine Learning and Deep Learning and learned in the process of harvesting a lot.
 
-This page is a simple summary.
-
 ### 
 --------------------------
 #### 《TensorFlow 实战谷歌深度学习框架》(第2版)笔记
