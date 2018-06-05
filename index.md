@@ -1,7 +1,8 @@
 ## Welcome to the Deeplearning Pages
 
 ### Introduction 
-    This page mainly introduce some important notes on the way to ML or DL,And the page will update until the end of the game(We participate in a Tianchi Competition about Text Detection in Network Images [Offical Website](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.6acd33afHI9Z62&raceId=231651)).
+This page mainly introduce some important notes on the way to ML or DL,And the page will update until the end of the game(We participate in a Tianchi Competition about Text Detection in Network Images [Offical Website](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.6acd33afHI9Z62&raceId=231651)).
+The primary goal for this competition is to enhance knowledge and competency of ourself.Through this competition ,we learned about the Machine Learning and Deep Learning . I learn in the process of harvesting a lot.This page is a simple summary.
 
 ### 
 --------------------------
