@@ -1,7 +1,7 @@
 ## Welcome to the Deeplearning Pages
 
 ### Introduction 
-This page mainly introduce some important notes on the way to ML or DL,And the page will update until the end of the game(We participate in a Tianchi Competition).
+This page mainly introduce some important notes on the way to ML or DL,And the page will update until the end of the game(We participate in a Tianchi Competition about Text Detection in Network Images.[offical website](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.6acd33afHI9Z62&raceId=231651)).
 
 ### 
 --------------------------
